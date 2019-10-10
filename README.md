@@ -8,7 +8,7 @@
   - [Burp Suite Playlist](https://www.hacker101.com/playlists/burp_suite)
   - [CTF](https://ctf.hacker101.com/) - note: requires a hackerone account
   - [All videos](https://www.hacker101.com/videos)
-  - [Syllabus]()
+  - [Syllabus](https://www.hackerone.com/sites/default/files/2018-01/Hacker101%20Syllabus.pdf)
 - Graceful security - [hacking web apps](https://www.gracefulsecurity.com/hacking-web-applications/)
 - [Network basics](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
 - [Common ports](https://www.utilizewindows.com/list-of-common-network-port-numbers/)
