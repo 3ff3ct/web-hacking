@@ -4,11 +4,11 @@
 
 # Tutorials
 - [Hacker101](https://www.hacker101.com/)
- - [Newcomer's Playlist](https://www.hacker101.com/playlists/newcomers)
- - [Burp Suite Playlist](https://www.hacker101.com/playlists/burp_suite)
- - [CTF](https://ctf.hacker101.com/) - note: requires a hackerone account
- - [All videos](https://www.hacker101.com/videos)
- - [Syllabus]()
+  - [Newcomer's Playlist](https://www.hacker101.com/playlists/newcomers)
+  - [Burp Suite Playlist](https://www.hacker101.com/playlists/burp_suite)
+  - [CTF](https://ctf.hacker101.com/) - note: requires a hackerone account
+  - [All videos](https://www.hacker101.com/videos)
+  - [Syllabus]()
 - Graceful security - [hacking web apps](https://www.gracefulsecurity.com/hacking-web-applications/)
 - [Network basics](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
 - [Common ports](https://www.utilizewindows.com/list-of-common-network-port-numbers/)
