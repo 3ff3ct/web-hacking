@@ -17,11 +17,13 @@
 # Online web apps
 - OWASP's [Juice Shop](https://juice-shop.herokuapp.com)
 - [Zero Bank](http://zero.webappsecurity.com/) from Micro Focus
-- [Hackxor](https://hackxor.net/) by albinowax
+- [List of web apps](https://securitythoughts.wordpress.com/2010/03/22/vulnerable-web-applications-for-learning/)
+
 
 # Virtual Machines and downloadable apps
  - [xvwa](https://github.com/s4n7h0/xvwa)
  - OWASP's [WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
+ - [Hackxor](https://hackxor.net/) by albinowax
 
 # Info/Misc
 - Arman Hardikar's [mindmap](https://amanhardikar.com/mindmaps/Practice.html)
