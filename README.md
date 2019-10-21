@@ -28,3 +28,4 @@
 
 # Info/Misc
 - Arman Hardikar's [mindmap](https://amanhardikar.com/mindmaps/Practice.html)
+- [The art of hacking](https://github.com/The-Art-of-Hacking/h4cker)
