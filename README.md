@@ -13,6 +13,7 @@
 - [Network basics](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
 - [Common ports](https://www.utilizewindows.com/list-of-common-network-port-numbers/)
 - [Linux basics](https://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
+- [OWASP guide](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
 
 # Online web apps
 - OWASP's [Juice Shop](https://juice-shop.herokuapp.com)
